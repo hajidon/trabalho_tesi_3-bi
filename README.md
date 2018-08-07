@@ -3,7 +3,7 @@
 
 ### Colaboradores:
 
-Renato Benatti
+#### Renato Benatti - Aluno - RA:00135678
 
-Carlos Eduardo Pelegrin
+#### Carlos Eduardo Pelegrin - Professor - S/RA
 
