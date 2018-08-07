@@ -5,5 +5,5 @@
 
 Renato Benatti - Aluno - RA:00135678
 
-Carlos Eduardo Pelegrin - Professor - S/RA
+Carlos Eduardo Pelegrin - Professor - 
 
