@@ -1,11 +1,11 @@
 # Documentação de Funcionalidades
 Quem?
 
-    * Pessoas que gostem de novas aplicações e tenham curiosidade na area de eletrônica 
+* Pessoas que gostem de novas aplicações e tenham curiosidade na area de eletrônica 
 
-O que?
+#### O que?
 
-    * Este é um aplicativo que tem por função ligar um led atravez de um aplicativo mobile
+* Este é um aplicativo que tem por função ligar um led atravez de um aplicativo mobile
 
 Por que?
 
